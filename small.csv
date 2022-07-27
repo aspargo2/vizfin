@@ -1,0 +1,100 @@
+LoanAmount,City,State,Zip,NAICSCode,BusinessType,RaceEthnicity,Gender,Veteran,NonProfit,JobsReported,DateApproved,Lender,CD
+149957.5,HONOLULU,HI,96813,238220,Corporation,Unanswered,Unanswered,Unanswered,,14,4/16/20,First Hawaiian Bank,HI-01
+149900,HONOLULU,HI,96814,541990,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,17,4/8/20,First Hawaiian Bank,HI-01
+149800,HONOLULU,HI,96816,722511,Corporation,Asian,Male Owned,Non-Veteran,,42,4/12/20,Central Pacific Bank,HI-01
+149800,HONOLULU,HI,96815,722511,Corporation,Unanswered,Unanswered,Unanswered,,27,5/27/20,"American Savings Bank, FSB",HI-01
+149700,AIEA,HI,96701,621111,Limited Liability Partnership,Unanswered,Unanswered,Unanswered,,10,4/6/20,"American Savings Bank, FSB",HI-01
+149657,CAPTAIN COOK,HI,96704,721110,Corporation,Unanswered,Male Owned,Non-Veteran,,,4/16/20,Bank of Hawaii,HI-02
+149615,HONOLULU,HI,96816,621210,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,,4/11/20,Bank of Hawaii,HI-01
+149500,KAILUA KONA,HI,96740,487110,Corporation,Unanswered,Unanswered,Unanswered,,18,4/9/20,First Hawaiian Bank,HI-02
+149455,MILILANI,HI,96789,238990,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,15,5/8/20,Bank of Hawaii,HI-01
+149400,HONOLULU,HI,96815,722511,Corporation,Unanswered,Unanswered,Unanswered,,33,4/10/20,First Hawaiian Bank,HI-01
+149400,HONOKAA,HI,96727,722310,Corporation,Unanswered,Male Owned,Veteran,,41,4/10/20,First Bank,HI-02
+149392,Kilauea,HI,96754,722513,Corporation,Unanswered,Unanswered,Unanswered,,0,5/11/20,Central Pacific Bank,HI-02
+149320,KAHULUI,HI,96732,238220,Limited  Liability Company(LLC),White,Male Owned,Unanswered,,,4/12/20,Bank of Hawaii,HI-02
+149300,Puunene,HI,96784,238990,Corporation,Unanswered,Unanswered,Unanswered,,0,5/8/20,Central Pacific Bank,HI-02
+149300,LIHUE,HI,96766,236220,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,11,4/6/20,Central Pacific Bank,HI-02
+149200,HONOLULU,HI,96814,541512,Corporation,Unanswered,Unanswered,Unanswered,,7,4/7/20,"American Savings Bank, FSB",HI-01
+149100,LAHAINA,HI,96761,713990,Corporation,Unanswered,Male Owned,Unanswered,,76,4/13/20,First Hawaiian Bank,HI-02
+149100,Honolulu,HI,96813,541611,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,10,4/14/20,First Hawaiian Bank,HI-01
+149000,KAPAA,HI,96746,722511,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,26,4/9/20,First Hawaiian Bank,HI-02
+148900,KAMUELA,HI,96743,722310,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,13,4/16/20,First Hawaiian Bank,HI-02
+148900,Hilo,HI,96720,238140,Corporation,Unanswered,Male Owned,Non-Veteran,,17,4/16/20,First Hawaiian Bank,HI-02
+148900,Kahului,HI,96732,531390,Corporation,Unanswered,Unanswered,Unanswered,,0,5/7/20,Central Pacific Bank,HI-02
+148900,AIEA,HI,96701,238110,Corporation,Unanswered,Unanswered,Unanswered,,13,4/9/20,Central Pacific Bank,HI-01
+148722,HONOLULU,HI,96819,238220,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,80,4/28/20,First Hawaiian Bank,HI-01
+148700,KAPOLEI,HI,96707,621210,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,13,4/5/20,Central Pacific Bank,HI-02
+148700,HONOLULU,HI,96816,238350,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,20,4/9/20,Central Pacific Bank,HI-01
+148600,HONOLULU,HI,96813,611610,Corporation,Unanswered,Unanswered,Unanswered,,42,4/4/20,First Hawaiian Bank,HI-01
+148600,EWA BEACH,HI,96706,485999,Corporation,Unanswered,Unanswered,Unanswered,,17,4/6/20,"American Savings Bank, FSB",HI-01
+148600,MOUNTAIN VIEW,HI,96771,424690,Corporation,Unanswered,Unanswered,Unanswered,,14,4/7/20,"American Savings Bank, FSB",HI-02
+148595,AIEA,HI,96701,531311,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,4/15/20,Bank of Hawaii,HI-01
+148500,LAHAINA,HI,96761,561520,Corporation,White,Male Owned,Non-Veteran,,13,4/15/20,First Hawaiian Bank,HI-02
+148500,KAILUA,HI,96734,444190,Corporation,White,Male Owned,Non-Veteran,,10,4/4/20,"American Savings Bank, FSB",HI-02
+148500,KAILUA,HI,96734,238210,Corporation,Unanswered,Unanswered,Unanswered,,16,4/14/20,First Hawaiian Bank,HI-02
+148400,HONOLULU,HI,96814,446120,Corporation,Unanswered,Unanswered,Unanswered,,23,4/15/20,First Hawaiian Bank,HI-01
+148400,HONOLULU,HI,96814,541211,Corporation,Unanswered,Unanswered,Unanswered,,7,4/7/20,First Hawaiian Bank,HI-01
+148300,PEARL CITY,HI,96782,325199,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,20,4/4/20,Central Pacific Bank,HI-01
+148292,LAHAINA,HI,96761,722511,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,20,5/7/20,Bank of Hawaii,HI-02
+148200,KAPAA,HI,96746,561612,Corporation,Asian,Male Owned,Non-Veteran,,23,4/15/20,Central Pacific Bank,HI-02
+148200,Kahului,HI,96732,441320,Subchapter S Corporation,Unanswered,Male Owned,Veteran,,15,4/30/20,First Hawaiian Bank,HI-02
+148100,Honolulu,HI,96814,722410,Corporation,Unanswered,Unanswered,Unanswered,,0,5/5/20,Central Pacific Bank,HI-01
+148000,KAHULUI,HI,96732,722513,Limited  Liability Company(LLC),Unanswered,Female Owned,Non-Veteran,,28,4/3/20,"American Savings Bank, FSB",HI-02
+148000,HONOLULU,HI,96814,541310,Corporation,Unanswered,Unanswered,Unanswered,,11,4/9/20,Central Pacific Bank,HI-01
+147972.5,HONOLULU,HI,96826,531210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,13,4/28/20,First Hawaiian Bank,HI-01
+147900,HONOLULU,HI,96826,541310,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,9,4/5/20,Central Pacific Bank,HI-01
+147800,HONOLULU,HI,96819,445210,Corporation,Unanswered,Unanswered,Unanswered,,17,4/6/20,Central Pacific Bank,HI-01
+147800,Wailuku,HI,96793,541110,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,8,4/27/20,First Hawaiian Bank,HI-02
+147700,HILO,HI,96720,621111,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,,4/12/20,Bank of Hawaii,HI-02
+147700,KAILUA KONA,HI,96740,561990,Limited  Liability Company(LLC),Unanswered,Male Owned,Non-Veteran,,13,4/7/20,"American Savings Bank, FSB",HI-02
+147500,LIHUE,HI,96766,423990,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,,4/13/20,Bank of Hawaii,HI-02
+147487,Honolulu,HI,96813,213111,Corporation,Unanswered,Unanswered,Unanswered,,7,4/27/20,First Hawaiian Bank,HI-01
+147400,HONOLULU,HI,96826,238990,Corporation,Unanswered,Male Owned,Non-Veteran,,0,4/30/20,Central Pacific Bank,HI-01
+147312.5,LAHAINA,HI,96761,453920,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,12,4/30/20,First Hawaiian Bank,HI-02
+147300,HONOLULU,HI,96813,811121,Corporation,Unanswered,Unanswered,Unanswered,,11,4/6/20,First Hawaiian Bank,HI-01
+147294,Honolulu,HI,96817,561320,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,13,7/24/20,"Kabbage, Inc.",HI-01
+147117.5,LAHAINA,HI,96761,713990,Subchapter S Corporation,Unanswered,Male Owned,Unanswered,,12,4/27/20,First Hawaiian Bank,HI-02
+147030,AIEA,HI,96701,326111,Corporation,Unanswered,Male Owned,Non-Veteran,,,4/11/20,Bank of Hawaii,HI-01
+147000,Honolulu,HI,96817,524292,Subchapter S Corporation,Unanswered,Male Owned,Unanswered,,20,4/28/20,"TransPecos Banks, SSB.",HI-01
+146997.5,Puunene,HI,96784,238120,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,7,5/1/20,First Hawaiian Bank,HI-02
+146960,HONOLULU,HI,96813,541110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,,4/28/20,Bank of Hawaii,HI-01
+146800,HILO,HI,96720,624229,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,13,4/14/20,First Hawaiian Bank,HI-02
+146675,Lihue,HI,96766,624190,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,19,4/29/20,First Hawaiian Bank,HI-02
+146641,Kapaa,HI,96746,522390,Corporation,Unanswered,Unanswered,Unanswered,,25,5/3/20,Cross River Bank,HI-02
+146600,Hilo,HI,96720,722511,Corporation,Unanswered,Unanswered,Unanswered,,0,5/6/20,Central Pacific Bank,HI-02
+146600,HONOLULU,HI,96826,561510,Corporation,Unanswered,Unanswered,Unanswered,,15,4/14/20,First Hawaiian Bank,HI-01
+146500,Kailua Kona,HI,96740,811121,Corporation,Unanswered,Unanswered,Unanswered,,0,4/30/20,Central Pacific Bank,HI-02
+146300,HONOLULU,HI,96819,541211,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,11,4/3/20,"American Savings Bank, FSB",HI-01
+146300,HONOLULU,HI,96813,531312,Corporation,Unanswered,Unanswered,Unanswered,,12,4/14/20,First Hawaiian Bank,HI-01
+146255,HONOLULU,HI,96817,561990,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,30,4/30/20,First Hawaiian Bank,HI-01
+146200,HONOLULU,HI,96819,238220,Limited  Liability Company(LLC),Asian,Male Owned,Veteran,,9,4/4/20,Hawaii National Bank,HI-01
+146200,KAHULUI,HI,96732,812199,Limited  Liability Company(LLC),Unanswered,Male Owned,Non-Veteran,,32,4/9/20,"American Savings Bank, FSB",HI-02
+146100,HONOLULU,HI,96815,531312,Corporation,Unanswered,Unanswered,Unanswered,,21,4/10/20,First Hawaiian Bank,HI-01
+146100,WAIPAHU,HI,96797,621111,Limited  Liability Company(LLC),Hispanic,Male Owned,Unanswered,,10,4/4/20,"American Savings Bank, FSB",HI-01
+146077.5,HONOLULU,HI,96815,722511,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,47,4/15/20,First Hawaiian Bank,HI-01
+146000,WAIPAHU,HI,96797,423120,Corporation,Unanswered,Unanswered,Unanswered,,20,4/10/20,First Hawaiian Bank,HI-01
+146000,KAILUA KONA,HI,96745,561320,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,8,4/5/20,Bank of Hawaii,HI-02
+146000,Kailua,HI,96734,811219,Corporation,Unanswered,Unanswered,Unanswered,,11,4/28/20,Central Pacific Bank,HI-02
+146000,HONOLULU,HI,96813,621111,Corporation,Unanswered,Unanswered,Unanswered,,10,4/7/20,"American Savings Bank, FSB",HI-01
+145905,HONOLULU,HI,96819,444190,Corporation,Unanswered,Unanswered,Unanswered,,,4/13/20,Bank of Hawaii,HI-01
+145900,HONOLULU,HI,96817,541310,Corporation,Unanswered,Unanswered,Unanswered,,9,4/8/20,Central Pacific Bank,HI-01
+145833.35,LIHUE,HI,96766,523999,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,,4/7/20,Kaua'i Government Employees' FCU,HI-02
+145830,KAUNAKAKAI,HI,96748,423440,Corporation,Unanswered,Unanswered,Unanswered,,,6/22/20,Bank of Hawaii,HI-02
+145800,KULA,HI,96790,111998,Corporation,Black or African American,Female Owned,Non-Veteran,,12,4/10/20,"American Savings Bank, FSB",HI-02
+145800,HONOLULU,HI,96814,517311,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,10,4/9/20,First Hawaiian Bank,HI-01
+145790,Honolulu,HI,96823,238110,Subchapter S Corporation,Unanswered,Male Owned,Unanswered,,17,4/27/20,First Hawaiian Bank,HI-01
+145700,HONOLULU,HI,96815,621210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,12,4/12/20,Central Pacific Bank,HI-01
+145700,Waipahu,HI,96797,238210,Limited  Liability Company(LLC),Asian,Male Owned,Non-Veteran,,14,5/8/20,Hawaii National Bank,HI-01
+145635,HONOLULU,HI,96819,541690,Limited  Liability Company(LLC),Asian,Unanswered,Unanswered,,,4/14/20,Bank of Hawaii,HI-01
+145595,KOLOA,HI,96756,487210,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,25,4/30/20,First Hawaiian Bank,HI-02
+145500,HILO,HI,96720,541310,Limited  Liability Company(LLC),White,Male Owned,Unanswered,,8,4/6/20,First Hawaiian Bank,HI-02
+145500,HONOLULU,HI,96816,621210,Corporation,Asian,Male Owned,Non-Veteran,,13,4/8/20,"American Savings Bank, FSB",HI-01
+145300,HONOLULU,HI,96813,541910,Corporation,Unanswered,Unanswered,Unanswered,,,4/12/20,Bank of Hawaii,HI-01
+145300,HONOLULU,HI,96817,236118,Corporation,Asian,Male Owned,Unanswered,,14,4/5/20,"American Savings Bank, FSB",HI-01
+145200,KAHULUI,HI,96732,532299,Corporation,White,Unanswered,Unanswered,,18,4/4/20,"American Savings Bank, FSB",HI-02
+145190,HONOLULU,HI,96817,424420,Corporation,Unanswered,Unanswered,Unanswered,,16,4/28/20,First Hawaiian Bank,HI-01
+145012.5,Honolulu,HI,96814,561520,Corporation,Unanswered,Unanswered,Unanswered,,11,4/14/20,First Hawaiian Bank,HI-01
+145010,HILO,HI,96720,451110,Corporation,Unanswered,Male Owned,Non-Veteran,,,4/15/20,Bank of Hawaii,HI-02
+145000,KEALAKEKUA,HI,96750,424490,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,10,4/5/20,Central Pacific Bank,HI-02
+145000,HONOLULU,HI,96819,312112,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,4/14/20,Central Pacific Bank,HI-01
+145000,KAILUA KONA,HI,96745,236115,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,4/15/20,Central Pacific Bank,HI-02
