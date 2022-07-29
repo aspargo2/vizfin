@@ -1,9 +1,6 @@
+//links I used for the stacked bar chart and some basic d3 setup/intialization
 //https://d3-graph-gallery.com/graph/line_basic.html
 //https://d3-graph-gallery.com/graph/barplot_stacked_basicWide.html
-
-// message
-//ton of demographic information missing
-//
 
 // set the dimensions and margins of the graph
 var margin = { top: 10, right: 30, bottom: 30, left: 60 },
@@ -20,16 +17,18 @@ var svg, tooltip;
 var currentSceneIndex = 0;
 var scenes = [
   {
-    title: 'The Paycheck Protection Program or PPP was a government program designed ' +
-      'to give companies forgivable loans to help keep people employed and companies from ' +
-      'failing during lockdowns due to COVID-19. Because of how quickly the virus spread, ' +
-      'how rapidly everything shut down, and how quickly the government sent out enormous amounts ' +
-      'of money, there has been a lot of fraud and waste with money going to people that did not ' +
-      'need it. NBC news reported hundreds of billions of dollars stolen, many by people not even ' +
-      'in the country. The message of my narrative visualization is to highlight to the user the ' +
-      'amount spent in a short amount of time, the little information known about the money ' +
-      'spent, and how someone might look for suspicious data.</br></br>Notice the large missing gap ' +
-      'in the data and the large ratio of unknown gender. Let\'s pick the day with the most loans and drill in.',
+    title: `The Paycheck Protection Program or PPP was a government program designed
+      to give companies forgivable loans to help keep people employed and companies from
+      failing during lockdowns due to COVID-19. Because of how quickly the virus spread,
+      how rapidly everything shut down, and how quickly the government sent out enormous amounts
+      of money, there has been a lot of fraud and waste with money going to people that did not
+      need it. NBC news reported hundreds of billions of dollars stolen, many by people not even
+      in the country. The message of my narrative visualization is to highlight to the user the
+      amount spent in a short amount of time, the little information known about the money
+      spent, and how someone might look for suspicious data.</br></br>Notice the large missing gap
+      in the data and the large ratio of unknown gender. Let\'s pick the day with the most loans and drill in.
+      </br>**You can use the "Back" and "Next" buttons to move between scenes as we explore the data
+      </br>**You can hover over any of the bars on the chart to see the date, value, and loan amount`,
     groupField: 'Gender',
     annotations: [{
           id: 'large-loan',
@@ -220,13 +219,13 @@ function changeScene(dir) {
     document.getElementById('zipImg').style.display = 'none';
   }
 
+  d3.select('#prevBtn').attr('disabled', null);
+  d3.select('#nextBtn').attr('disabled', null);
   if(currentSceneIndex == 4) {
     d3.select('#nextBtn').attr('disabled', 'disabled');
-    d3.select('#prevBtn').attr('disabled', null);
     d3.select('#exploreForm').style('display', 'block');
   }
   if(currentSceneIndex == 0) {
-    d3.select('#nextBtn').attr('disabled', null);
     d3.select('#prevBtn').attr('disabled', 'disabled');
     d3.select('#exploreForm').style('display', 'none');
   }
