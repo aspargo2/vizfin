@@ -13,7 +13,26 @@
     <p id="sceneDescription">hi there</p>
     <div id="chart"></div>
     <button id='prevBtn' onclick='changeScene("b")'>Back</button><button id='nextBtn' onclick='changeScene("f")'>Next</button>
-    <img id='zipImg' src=''/>
+    <img id='zipImg' src='https://github.com/aspargo2/vizfin/raw/main/zip-code.png'/>
+    <div id='exploreForm'>
+      
+      
+      <label>Enter grouping field (Gender, Lender, City, Zip, NAICSCode, BusinessType, RaceEthnicity, Veteran, NonProfit)</label>
+      <input id='groupFieldInput' name='groupField'/></form></br>
+
+      <label>Start Date (mm/dd/yyyy)</label>
+      <input id='dateRangeStartInput' name='dateRangeStart'/>
+      <label>End Date (mm/dd/yyyy)</label>
+      <input id='dateRangeEndInput' name='dateRangeEnd'/>
+      </br>
+
+      <label>Y axis max</label>
+      <input id='ymaxInput' name='ymax'/>
+      </br>
+
+      <button id='submitBtn' onclick='formSubmit()'>Submit</button>
+    </div>
+    
     <div id='legend'></div>
   </body>
 </html>

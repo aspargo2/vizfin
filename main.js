@@ -186,6 +186,18 @@ var scenes = [
       return d['Lender'] == 'First Hawaiian Bank' && d['NAICSCode'] == '722511';
     },
     ymax: 2000000
+  },
+  {
+    title: `I hope you were able to see how some of the data for the PPP is missing
+      which makes it hard to know how the money was distributed. I hope you also
+      got a sense for what an analyst or investigator might do to look for fraud or abuse`,
+    groupField: 'Gender',
+    annotations: [],
+    dateRange: ['04/03/2020', '08/08/2020'],
+    filter: function(d) {
+      return true;
+    },
+    ymax: 60000000
   }
 ];
 
@@ -207,6 +219,18 @@ function changeScene(dir) {
   } else {
     document.getElementById('zipImg').style.display = 'none';
   }
+
+  if(currentSceneIndex == 4) {
+    d3.select('#nextBtn').attr('disabled', 'disabled');
+    d3.select('#prevBtn').attr('disabled', null);
+    d3.select('#exploreForm').style('display', 'block');
+  }
+  if(currentSceneIndex == 0) {
+    d3.select('#nextBtn').attr('disabled', null);
+    d3.select('#prevBtn').attr('disabled', 'disabled');
+    d3.select('#exploreForm').style('display', 'none');
+  }
+
   document.getElementById('sceneDescription').innerHTML = scenes[currentSceneIndex].title;
   innerGroupField = scenes[currentSceneIndex].groupField;
   refresh();
@@ -348,7 +372,7 @@ function refresh() {
       return tooltip.style("top", (event.clientY - 10) + "px")
         .style("left", (event.clientX + 10) + "px"); 
     })
-  // .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
+    .on("mouseout", function(){return tooltip.style("visibility", "hidden");});
 }
 
 function processData(dat) {
@@ -425,4 +449,27 @@ function processData(dat) {
     groups: groups,
     color: color
   }
+}
+
+function formSubmit() {
+  var group = document.getElementById('groupFieldInput').value;
+  var start = document.getElementById('dateRangeStartInput').value;
+  var end = document.getElementById('dateRangeEndInput').value;
+  var ymax = document.getElementById('ymaxInput').value;
+
+  if(ymax != '') {
+    scenes[currentSceneIndex].ymax = Number(ymax);
+  }
+
+  if(group != '') {
+    innerGroupField = group;
+    scenes[currentSceneIndex].groupField = group;
+  }
+  
+  if(start != '' && end != '') {
+    scenes[currentSceneIndex].dateRange = [start, end];
+  }
+
+  processData(origData);
+  refresh();
 }
