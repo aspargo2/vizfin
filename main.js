@@ -33,7 +33,7 @@ var scenes = [
     annotations: [{
           id: 'large-loan',
           note: {
-            label: "It looks like on May 28th there was a large number of loans given",
+            label: "It looks like on April 28th there was a large number of loans given",
             bgPadding: 20,
             title: "What's this?",
             align: "right"
@@ -81,7 +81,7 @@ var scenes = [
     ymax: 60000000
   },
   {
-    title: `We're now looking at On April 28th grouped by lender. Looks like one particular bank gave out
+    title: `We're now looking at on April 28th grouped by lender. Looks like one particular bank gave out
       the largest amount of loans. Maybe we should look into that bank some more`,
     groupField: 'Lender',
     annotations: [
@@ -115,7 +115,7 @@ var scenes = [
     ymax: 60000000
   },
   {
-    title: `NAICS (North American Industry Classification System)codes are a way 
+    title: `NAICS (North American Industry Classification System) codes are a way 
       to classify various industries. This lets us have an idea
       which industries asked for the highest amount of loans. It looks like 722511 has a lot
       relative to others. 722511 is the code for 'Full Service Restaurants'. That makes sense
@@ -154,7 +154,9 @@ var scenes = [
   {
     title: `We are now looking at loans from First Hawaiian Bank on 4/28 for Full Service Restaurants.
       The data is grouped by Zip code now so we can validate. The largest zip code is 96814, looking
-      at the map below, does this seem like a reasonable location for the loans?`,
+      at the map below, does this seem like a reasonable location for the loans?
+      </br> Looking at the map we can see multiple restaurants, so it looks like we didn't find anything this time.
+      </br> If you think you're a better investigator, click "Next" to explore the data yourself and see if you can find something :)`,
     groupField: 'Zip',
     annotations: [
       {
