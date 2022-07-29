@@ -1,0 +1,11 @@
+LoanAmount,City,State,Zip,NAICSCode,BusinessType,RaceEthnicity,Gender,Veteran,NonProfit,JobsReported,DateApproved,Lender,CD
+149455,MILILANI,HI,96789,238990,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,15,5/8/20,Bank of Hawaii,HI-01
+149300,Puunene,HI,96784,238990,Corporation,Unanswered,Unanswered,Unanswered,,0,5/8/20,Central Pacific Bank,HI-02
+145700,Waipahu,HI,96797,238210,Limited  Liability Company(LLC),Asian,Male Owned,Non-Veteran,,14,5/8/20,Hawaii National Bank,HI-01
+137242,KAMUELA,HI,96743,446191,Corporation,Unanswered,Unanswered,Unanswered,,18,5/8/20,Bank of Hawaii,HI-02
+67450,HONOLULU,HI,96826,812112,Limited  Liability Company(LLC),Unanswered,Female Owned,Unanswered,,12,5/8/20,Bank of Hawaii,HI-01
+24000,Honolulu,HI,96821,812990,Corporation,Asian,Female Owned,Non-Veteran,,3,5/8/20,Hawaii National Bank,HI-01
+103757,KAMUELA,HI,96743,621340,Corporation,Unanswered,Unanswered,Unanswered,,9,5/8/20,Bank of Hawaii,HI-02
+100000,HONOLULU,HI,96814,339116,Corporation,Unanswered,Unanswered,Unanswered,,8,5/8/20,Central Pacific Bank,HI-01
+99500,KAUNAKAKAI,HI,96748,621340,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,35,5/8/20,"American Savings Bank, FSB",HI-02
+95700,WAILUKU,HI,96793,531210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,5/8/20,Bank of Hawaii,HI-02
