@@ -365,7 +365,7 @@ function refresh() {
     .on("mouseover", function (event, d) { 
       var date = d.data[outerGroupField];
       var label = Object.entries(d.data).filter(e => e[1] == d[1] - d[0])[0][0];
-      var val = d[1];
+      var val = d[1] - d[0];
       tooltip.text(date + ' [' + innerGroupField + ': ' + label + ']: $' + val); 
       return tooltip.style("visibility", "visible"); 
     })
